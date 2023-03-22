@@ -5,6 +5,9 @@
     text-decoration: none;
     list-style: none;
 }
+::-webkit-scrollbar {
+    display: none;
+}
 body {
     background-color: transparent;
     width: 100%;
